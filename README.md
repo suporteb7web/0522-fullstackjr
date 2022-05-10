@@ -17,7 +17,7 @@ Após a finalização, o candidato deve enviar um e-mail para suporte@b7web.com.
 ## Questões Teóricas
 
 1. Quais as partes principais de uma requisição HTTP?
-2. Qual a diferença entre colocar um script dentro do <head> e no fim do <body>?
+2. Qual a diferença entre colocar um script dentro do "head" e no fim do "body"?
 3. Qual a diferença entre display: block e display: inline-block ?
 4. É possível criar um site responsivo SEM media queries? Por que?
 5. No Javascript, é obrigatório usar VAR para criar uma variável?
